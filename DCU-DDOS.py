@@ -15,7 +15,7 @@ print("\t\t/////////////////////////////////////////////////")
 print("\t\t_________________________________________________")
 print("\t\t\t\t DDOS Tool v.0.1")
 print("\t\t\t\t For any Problems open an Issues")
-print("\t\t\t\t https://github.com/LightYagami28/D.C.U-DDOS-Tool\t\t\t")
+print("\t\t\t\t https://github.com/LightYagami28/DDOS-TOOL\t\t\t")
 print("\t\t_________________________________________________")
 print("\t\t\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n")
 
